@@ -61,7 +61,7 @@ public class BookDetail_jsp extends HttpJspBase {
  //   java.sql.ResultSet rs = stat.executeQuery(sql);
 //    return (rs);
 //  }
-  
+  //temporary
   String dLookUp(java.sql.Statement stat, String table, String fName, String where) {
     java.sql.Connection conn1 = null;
     java.sql.Statement stat1 = null;
