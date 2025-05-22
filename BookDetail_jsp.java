@@ -14,10 +14,6 @@ public class BookDetail_jsp extends HttpJspBase {
 
   static final String CRLF = "\r\n";
 
-// TEst lital
-// TEst lital1
-// TEst lital2
-// TEst lital3
 
   static final int UNDEFINT=Integer.MIN_VALUE;
 
