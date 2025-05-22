@@ -11,13 +11,12 @@ public class BookDetail_jsp extends HttpJspBase {
 //   Generated with CodeCharge  v.1.2.0
 //   JSP.ccp build 05/21/2001
 //
+  //some comment to add
+
+  
 
   static final String CRLF = "\r\n";
 
-// TEst lital
-// TEst lital1
-// TEst lital2
-// TEst lital3
 
   static final int UNDEFINT=Integer.MIN_VALUE;
 
@@ -57,6 +56,8 @@ public class BookDetail_jsp extends HttpJspBase {
 
   //Add new vuln
 
+
+=======
 //   java.sql.ResultSet openrs(java.sql.Statement stat, String sql) throws java.sql.SQLException {
  //   java.sql.ResultSet rs = stat.executeQuery(sql);
 //    return (rs);
